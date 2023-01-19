@@ -6,6 +6,7 @@ const MainContect = () => {
             <FlowerCart />
             <FlowerCart />
             <FlowerCart />
+            <FlowerCart />
         </div>
     );
 }

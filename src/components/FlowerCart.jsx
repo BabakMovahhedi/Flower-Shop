@@ -1,10 +1,11 @@
+
 const FlowerCart = () => {
     return (
-        <div className="flex flex-col bg-slate-500 rounded-sm w-1/4 h-48  " >
+        <div className="flex flex-col justify-center items-center bg-emerald-600 rounded-xl w-40 h-64  " >
+            <img height={'170px'} width={'110px'} />
             <h1>name</h1>
-            <img />
             <p>price</p>
-            <button >buy</button>
+            <button className="bg-emerald-400 w-24 rounded-sm " >buy</button>
         </div>
     );
 }
